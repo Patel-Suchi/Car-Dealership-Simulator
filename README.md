@@ -1,3 +1,3 @@
 # Car-Dealership-Simulator
 
-A simulator for Car Dealership using object-oriented Java, file I/O and excepHon handling to simulate a simplified car registration and management system for dealership.
+The project involved designing a simulator for a Car Dealership using Java programming language. The focus of the project was to implement a simplified car registration and management system for the dealership. Object-oriented programming techniques were used to create classes, objects and methods that could perform the necessary actions. File I/O and exception handling were also used to manage data input and output, ensuring data security and reliability. The simulator provided a user-friendly interface and allowed dealership employees to manage customer information, car inventory, and sales transactions. The implementation of the Car Dealership Simulator aimed to streamline dealership operations and provide a more efficient way to manage car registration and sales.
